@@ -1,6 +1,6 @@
 const { default: axios } = require("axios");
 const cheerio = require("cheerio");
-const { promises: fs } = require("fs");
+const { promises: fs, existsSync } = require("fs");
 const path = require("path");
 const h2m = require('h2m');
 
@@ -24,6 +24,8 @@ const { urls } = require("./sitemap.json");
 
     if (name !== "estheradeniyi.com") {
       console.log(loc);
+      if (existsSync(path.join(folderPath, 'README.md'))) continue;
+      
       const res = await axios.get(loc, { responseType: "text" });
 
       const $ = cheerio.load(res.data);
@@ -41,10 +43,12 @@ const { urls } = require("./sitemap.json");
 
       for (const image of distinctImages) {
         console.log("  -", image.loc);
-        const res = await axios.get(image.loc, { responseType: "arraybuffer" });
         const [filename] = image.loc.split("/").slice(-1);
-        await fs.writeFile(path.join(imagesFolderPath, filename), res.data);
-        markdownBody = markdownBody.replace(new RegExp(image.loc, 'g'), path.join('images', filename));
+        if (!existsSync(path.join(imagesFolderPath, filename))) {
+          const res = await axios.get(image.loc, { responseType: "arraybuffer" });
+          await fs.writeFile(path.join(imagesFolderPath, filename), res.data);
+          markdownBody = markdownBody.replace(new RegExp(image.loc, 'g'), path.join('images', filename));
+        }
       }
 
       const markdown = [
