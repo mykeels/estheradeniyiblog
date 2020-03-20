@@ -8,6 +8,7 @@ const relativeUrl = process.env.URL || "";
 const { urls } = require("./sitemap.json");
 
 (async () => {
+  await fs.writeFile(path.join('../', 'pages/posts/README.md'), '', 'utf8');
   for (const { loc, lastmod, images } of urls) {
     const lastModDate = new Date(lastmod);
     const distinctImages = Object.values(
@@ -25,7 +26,7 @@ const { urls } = require("./sitemap.json");
     if (name !== "estheradeniyi.com") {
       console.log(loc);
       if (existsSync(path.join(folderPath, 'README.md'))) continue;
-      
+
       const res = await axios.get(loc, { responseType: "text" });
 
       const $ = cheerio.load(res.data);
@@ -59,7 +60,12 @@ const { urls } = require("./sitemap.json");
 
       await fs.writeFile(path.join(folderPath, 'README.md'), markdown.join('\n'));
 
+      const articleReadmePath = path.join(name, 'README.md')
 
+      await fs.appendFile(
+        path.join('../', 'pages/posts/README.md'),
+        `- [${title}](${articleReadmePath})\n`, 
+        'utf8')
     }
   }
 })();
