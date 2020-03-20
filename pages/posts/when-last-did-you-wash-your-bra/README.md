@@ -5,7 +5,7 @@
 
 by [Esther Adeniyi](https://estheradeniyi.com/author/esther-adeniyi/)on [December 11, 2017April 27, 2018](https://estheradeniyi.com/when-last-did-you-wash-your-bra/)[6 Comments on When last did you wash your bra?](https://estheradeniyi.com/when-last-did-you-wash-your-bra/#comments)
 
-![](../pages/posts/when-last-did-you-wash-your-bra/images/underwear-627302_1280.jpg)
+![](https://estheradeniyi.com/wp-content/uploads/2017/12/underwear-627302_1280.jpg)
 
 Sharing is caring!
 
@@ -15,11 +15,11 @@ Sharing is caring!
 
 0shares
 
-[![When last did you wash your bra, Esther Adeniyi](../pages/posts/when-last-did-you-wash-your-bra/images/underwear-627302_1280-1024x592.jpg)](../pages/posts/when-last-did-you-wash-your-bra/images/underwear-627302_1280-1024x592.jpg)
+[![When last did you wash your bra, Esther Adeniyi](https://estheradeniyi.com/wp-content/uploads/2017/12/underwear-627302_1280-1024x592.jpg)](https://estheradeniyi.com/wp-content/uploads/2017/12/underwear-627302_1280-1024x592.jpg)
 
  I was jejely on my own o when a friend sent this to me on Whatsapp. See picture below:
 
-[![](../pages/posts/when-last-did-you-wash-your-bra/images/IMG-20171210-WA0012.jpg)](../pages/posts/when-last-did-you-wash-your-bra/images/IMG-20171210-WA0012.jpg)
+[![](https://estheradeniyi.com/wp-content/uploads/2017/12/IMG-20171210-WA0012.jpg)](https://estheradeniyi.com/wp-content/uploads/2017/12/IMG-20171210-WA0012.jpg)
 
 Someone is asking if washing [bra](https://www.estheradeniyi.com/5-ways-to-know-your-bra-doesnt-fit?m=1) is even a thing. I shook brethren!
 

@@ -5,7 +5,7 @@
 
 by [Esther Adeniyi](https://estheradeniyi.com/author/esther-adeniyi/)on [November 20, 2017April 27, 2018](https://estheradeniyi.com/hardcore-truth-why-no-one-supports-you/)[15 Comments on Hardcore truth : why no one supports you](https://estheradeniyi.com/hardcore-truth-why-no-one-supports-you/#comments)
 
-![](../pages/posts/hardcore-truth-why-no-one-supports-you/images/cookie-lyon-9-435.jpg)
+![](https://estheradeniyi.com/wp-content/uploads/2017/11/cookie-lyon-9-435.jpg)
 
 Sharing is caring!
 
@@ -21,7 +21,7 @@ Sharing is caring!
 
 For entrepreneurs, this is a more relatable subject. I mean, you struggle so hard to be seen and heard. You struggle to make a distinction among the pack. You aren&#x2019;t the only one who&#x2019;s got excellent packaging, or a nice story behind your brand. There are so many other people who are doing excellently well. You therefore need a push, more help, more people to come on board and support you and be really there.
 
-[![](../pages/posts/hardcore-truth-why-no-one-supports-you/images/EstherAdeniyi.png)](https://estheradeniyi.com/wp-content/uploads/2017/11/EstherAdeniyi.png)
+[![](https://estheradeniyi.com/wp-content/uploads/2017/11/EstherAdeniyi.png)](https://estheradeniyi.com/wp-content/uploads/2017/11/EstherAdeniyi.png)
 
 Instead of whining and complaining, are you asking the right questions? Why aren&#x2019;t people supporting me? Why aren&#x2019;t people there like they should? Are you asking these questions objectively? I have three points I want you to consider if you are in these shoes. Three things I want you to ponder on. Three questions I want you to ask yourself if you are tired of the no support. Here are reasons why no one supports you.
 

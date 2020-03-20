@@ -5,7 +5,7 @@
 
 by [Esther Adeniyi](https://estheradeniyi.com/author/esther-adeniyi/)on [November 17, 2017April 27, 2018](https://estheradeniyi.com/the-wedding-party-2-movie-trailer-and-i/)[7 Comments on The Wedding Party 2, movie trailer and I what I think of it](https://estheradeniyi.com/the-wedding-party-2-movie-trailer-and-i/#comments)
 
-![](../pages/posts/the-wedding-party-2-movie-trailer-and-i/images/The-WeddingParty-3-.jpg)
+![](https://estheradeniyi.com/wp-content/uploads/2017/11/The-WeddingParty-3-.jpg)
 
 Sharing is caring!
 
@@ -15,7 +15,7 @@ Sharing is caring!
 
 0shares
 
-[![The Wedding Party 2 Movie Trailer, Esther Adeniyi,](../pages/posts/the-wedding-party-2-movie-trailer-and-i/images/The-WeddingParty-3--1024x576.jpg)](https://estheradeniyi.com/wp-content/uploads/2017/11/The-WeddingParty-3--1024x576.jpg)
+[![The Wedding Party 2 Movie Trailer, Esther Adeniyi,](https://estheradeniyi.com/wp-content/uploads/2017/11/The-WeddingParty-3--1024x576.jpg)](https://estheradeniyi.com/wp-content/uploads/2017/11/The-WeddingParty-3--1024x576.jpg)
 
 The Wedding Party 2 (2017) isn&#x2019;t out until December but as expected, the buzz is all over town. We won&#x2019;t quickly forget how deafening the hype of The Wedding Party 1 was.
 

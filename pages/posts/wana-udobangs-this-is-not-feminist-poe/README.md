@@ -5,7 +5,7 @@
 
 by [Esther Adeniyi](https://estheradeniyi.com/author/esther-adeniyi/)on [September 19, 2017April 27, 2018](https://estheradeniyi.com/wana-udobangs-this-is-not-feminist-poe/)[Leave a Comment on Wana Udobang&#x2019;s &#x201C;This Is Not A Feminist Poem&#x201D; is a must listen to](https://estheradeniyi.com/wana-udobangs-this-is-not-feminist-poe/#respond)
 
-![](images/E2809CThisIsNotAFeministPoemE2809DbyWannWana.png)
+![](https://estheradeniyi.com/wp-content/uploads/2017/09/E2809CThisIsNotAFeministPoemE2809DbyWannWana.png)
 
 Sharing is caring!
 
@@ -15,7 +15,7 @@ Sharing is caring!
 
 0shares
 
-[![&#x201C;This Is Not A Feminist Poem&#x201D; by WanaWana](images/E2809CThisIsNotAFeministPoemE2809DbyWannWana.png)](images/E2809CThisIsNotAFeministPoemE2809DbyWannWana.png)
+[![&#x201C;This Is Not A Feminist Poem&#x201D; by WanaWana](https://estheradeniyi.com/wp-content/uploads/2017/09/E2809CThisIsNotAFeministPoemE2809DbyWannWana.png)](https://estheradeniyi.com/wp-content/uploads/2017/09/E2809CThisIsNotAFeministPoemE2809DbyWannWana.png)
 
  &#x201C;This Is Not A Feminist Poem&#x201D; by [WanaWana](http://wanawana.net/) is a poem that you should listen to. It bares the woe of feminine living and the injustice faced in the plight of vulnerability. It is not a call, a motion, a move, as she says. It is an awareness to the silence in suffering and marginalization, of suffering, hypocrisy, complacency, violence against the [woman](https://www.estheradeniyi.com/the-true-beauty-of-woman).
 
@@ -23,7 +23,7 @@ Sharing is caring!
 
 Check&#xA0;Wana Udobang&#x2018;s amazing &#x201C;[In Memory of Forgetting](https://www.bellanaija.com/2017/08/exploring-vulnerability-brokenness-renewal-wana-udobangs-poetry-album-memory-forgetting/)&#x201D; poetry album [here](https://store.cdbaby.com/cd/wanawana).
 
-[![In memory of Forgetting by Wana Wana](images/InmemoryofForgettingbyWanaWana.jpg)](images/InmemoryofForgettingbyWanaWana.jpg)
+[![In memory of Forgetting by Wana Wana](https://estheradeniyi.com/wp-content/uploads/2017/09/InmemoryofForgettingbyWanaWana.jpg)](https://estheradeniyi.com/wp-content/uploads/2017/09/InmemoryofForgettingbyWanaWana.jpg)
 
 Listen to&#xA0;&#x201C;This Is Not A Feminist Poem&#x201D; by WanaWana below:
 

@@ -5,7 +5,7 @@
 
 by [Esther Adeniyi](https://estheradeniyi.com/author/esther-adeniyi/)on [September 18, 2017April 27, 2018](https://estheradeniyi.com/how-to-get-up-get-dressed-and-get-ou/)[Leave a Comment on How to Get up, Get Dressed and Get Out in 15 Minutes!](https://estheradeniyi.com/how-to-get-up-get-dressed-and-get-ou/#respond)
 
-![](images/bigstock_putting_on_makeup_1341648.jpg)
+![](https://estheradeniyi.com/wp-content/uploads/2017/09/bigstock_putting_on_makeup_1341648.jpg)
 
 Sharing is caring!
 
@@ -15,7 +15,7 @@ Sharing is caring!
 
 0shares
 
-[![How to Get up, Get Dressed and Get Out in 15 Minutes!](images/bigstock_putting_on_makeup_1341648.jpg)](images/bigstock_putting_on_makeup_1341648.jpg)
+[![How to Get up, Get Dressed and Get Out in 15 Minutes!](https://estheradeniyi.com/wp-content/uploads/2017/09/bigstock_putting_on_makeup_1341648.jpg)](https://estheradeniyi.com/wp-content/uploads/2017/09/bigstock_putting_on_makeup_1341648.jpg)
 
  Does 15 minutes sound ridiculous? Maybe. Until you give it a try, you are never going to think this will work. You have to believe that you can get up and [get dressed in 15 minutes](https://patch.com/pennsylvania/plum-oakmont/bp--10-simple-ways-to-get-ready-in-less-than-15-minutes). Only then, will the possibility transform into reality.
 

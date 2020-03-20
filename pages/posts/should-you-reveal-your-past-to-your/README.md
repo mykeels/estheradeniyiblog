@@ -5,7 +5,7 @@
 
 by [Esther Adeniyi](https://estheradeniyi.com/author/esther-adeniyi/)on [November 13, 2017April 27, 2018](https://estheradeniyi.com/should-you-reveal-your-past-to-your/)[13 Comments on Should you reveal your past to your partner?](https://estheradeniyi.com/should-you-reveal-your-past-to-your/#comments)
 
-![](../pages/posts/should-you-reveal-your-past-to-your/images/estheradeniyi28129.png)
+![](https://estheradeniyi.com/wp-content/uploads/2017/11/estheradeniyi28129.png)
 
 Sharing is caring!
 
