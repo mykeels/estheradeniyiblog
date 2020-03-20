@@ -12,6 +12,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "cheerio": "^1.0.0-rc.3",
+    "h2m": "^0.7.0",
     "imgur": "^0.3.1",
     "locate-chrome": "^0.1.1",
     "puppeteer-core": "^2.1.1"
