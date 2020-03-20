@@ -8,7 +8,6 @@ const relativeUrl = process.env.URL || "";
 const { urls } = require("./sitemap.json");
 
 (async () => {
-  await fs.writeFile(path.join('../', 'pages/posts/README.md'), '', 'utf8');
   for (const { loc, lastmod, images } of urls) {
     const lastModDate = new Date(lastmod);
     const distinctImages = Array.isArray(images) ? Object.values(
@@ -42,7 +41,7 @@ const { urls } = require("./sitemap.json");
       }
       catch {}
 
-      for (const image of distinctImages) {
+      for (const image of distinctImages.filter(Boolean)) {
         console.log("  -", image.loc);
         const [filename] = image.loc.split("/").slice(-1);
         if (!existsSync(path.join(imagesFolderPath, filename))) {
