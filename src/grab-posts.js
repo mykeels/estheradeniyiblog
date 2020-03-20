@@ -44,7 +44,7 @@ const { urls } = require("./sitemap.json");
         const res = await axios.get(image.loc, { responseType: "arraybuffer" });
         const [filename] = image.loc.split("/").slice(-1);
         await fs.writeFile(path.join(imagesFolderPath, filename), res.data);
-        markdownBody.replace(image.loc, path.join(imagesFolderPath, filename));
+        markdownBody = markdownBody.replace(new RegExp(image.loc, 'g'), path.join('images', filename));
       }
 
       const markdown = [
