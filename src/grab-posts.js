@@ -11,9 +11,9 @@ const { urls } = require("./sitemap.json");
   await fs.writeFile(path.join('../', 'pages/posts/README.md'), '', 'utf8');
   for (const { loc, lastmod, images } of urls) {
     const lastModDate = new Date(lastmod);
-    const distinctImages = Object.values(
+    const distinctImages = Array.isArray(images) ? Object.values(
       (images || []).reduce((obj, item) => ({ ...obj, [item.loc]: item }), {})
-    );
+    ) : [images];
 
     const [name] = loc
       .replace(/\/$/g, "")
