@@ -91,3 +91,7 @@
 - [Is a Masters Degree Really Worth it?](is-masters-degree-really-worth-i/README.md)
 - [Nobody Greater by Lara George (Lyrics)](nobody-greater-by-lara-george-lyrics/README.md)
 - [Fallen in Love by chidinma (Lyrics and Download)](fallen-in-love-by-chidinma-lyrics-and/README.md)
+- [Dry (2014 Movie) by Stephanie Linus Review](dry-2014-movie-review-by-stephanie-linus/README.md)
+- [7 Signs of Marriage Trouble](7-signs-of-marriage-trouble/README.md)
+- [Jenifa’s Diary Season 5 Lessons](jenifas-diary-season-5-lessons/README.md)
+- [All Black Outfit Ideas For You](all-black-outfit-ideas-for-you/README.md)
