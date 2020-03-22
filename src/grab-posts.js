@@ -43,7 +43,7 @@ const { urls } = require("./sitemap.json");
 
       for (const image of distinctImages.filter(Boolean)) {
         console.log("  -", image.loc);
-        const [filename] = image.loc.split("/").slice(-1);
+        const [filename] = image.filename ? [image.filename] : image.loc.split("/").slice(-1);
         if (!existsSync(path.join(imagesFolderPath, filename))) {
           const res = await axios.get(image.loc, { responseType: "arraybuffer" });
           await fs.writeFile(path.join(imagesFolderPath, filename), res.data);
